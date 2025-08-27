@@ -7,11 +7,7 @@ echo $number
 
 touch file1.txt
 
-<<<<<<< HEAD
-echo "assigning full-permissions"
-=======
 echo "assigning full_permissions"
->>>>>>> hotfix
 
 chmod 753 file1.txt
 
