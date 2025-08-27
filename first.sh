@@ -9,11 +9,7 @@ touch file1.txt
 
 echo "assigning full permissions"
 
-<<<<<<< HEAD
-chmod 757 file1.txt
-=======
 chmod 753 file1.txt
->>>>>>> 8f84940 (Update first.sh)
 
 echo "project completeed"
 
