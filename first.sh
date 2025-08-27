@@ -13,5 +13,5 @@ chmod 755 file1.txt
 
 echo "project completed"
 
-echo "updated the config changes"
+echo "updated the config profiles changed"
 echo "***********thanks for co-ordination*******************"
