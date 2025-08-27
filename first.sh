@@ -9,7 +9,7 @@ touch file1.txt
 
 echo "assigning full permissions"
 
-chmod 755 file1.txt
+chmod 753 file1.txt
 
 echo "project completed"
 
