@@ -3,15 +3,15 @@
 echo "******************First project*****************"
 read -p "enter no.of projects in org:" num
 
-echo $num
+echo $number
 
 touch file1.txt
 
 echo "assigning full permissions"
 
-chmod 755 file1.txt
+chmod 753 file1.txt
 
-echo "project completed"
+echo "project completeed"
 
 echo "updated the config profiles changed"
 echo "***********thanks for co-ordination*******************"
