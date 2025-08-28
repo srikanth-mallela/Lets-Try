@@ -7,9 +7,10 @@ echo $number
 
 touch file1.txt
 
-echo "assigning full permissions"
+echo "assigning full_permissions"
 
 chmod 753 file1.txt
+
 
 echo "project completeed"
 
