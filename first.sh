@@ -7,7 +7,6 @@ echo $number
 
 touch file1.txt
 
-
 echo "assigning full_permissions"
 
 
